@@ -53,15 +53,11 @@ A list of personal and course projects.
 ### Personal Projects
 
 - **[Spatium](https://github.com/Alan-Fedrizzi/spatium)** - Recreation od a layout from Figma.
-
 - **[Widgets](https://github.com/Alan-Fedrizzi/widgets)** - A compilation of Widgets for practice.
 
 ### Course Projects
 
 - **[Omnifood](https://github.com/Alan-Fedrizzi/omnifood)** - Project developed in the **Course Build Responsive Real-World Websites with HTML and CSS** (Udemy).
-
 - **[Natours](https://github.com/Alan-Fedrizzi/natours)** - Project developed in the course **Advanced** CSS and Sass\*\* (Udemy).
-
 - **[Trillo](https://github.com/Alan-Fedrizzi/trillo)** - Project developed in the course **Advanced CSS and Sass** (Udemy).
-
 - **[Nexter](https://github.com/Alan-Fedrizzi/nexter)** - Project developed in the course **Advanced CSS and Sass** (Udemy).
