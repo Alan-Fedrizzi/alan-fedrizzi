@@ -58,6 +58,6 @@ A list of personal and course projects.
 ### Course Projects
 
 - **[Omnifood](https://github.com/Alan-Fedrizzi/omnifood)** - Project developed in the **Course Build Responsive Real-World Websites with HTML and CSS** (Udemy).
-- **[Natours](https://github.com/Alan-Fedrizzi/natours)** - Project developed in the course **Advanced** CSS and Sass\*\* (Udemy).
+- **[Natours](https://github.com/Alan-Fedrizzi/natours)** - Project developed in the course **Advanced CSS and Sass** (Udemy).
 - **[Trillo](https://github.com/Alan-Fedrizzi/trillo)** - Project developed in the course **Advanced CSS and Sass** (Udemy).
 - **[Nexter](https://github.com/Alan-Fedrizzi/nexter)** - Project developed in the course **Advanced CSS and Sass** (Udemy).
