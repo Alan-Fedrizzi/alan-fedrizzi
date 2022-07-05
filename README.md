@@ -52,7 +52,7 @@ A list of personal and course projects.
 
 ### Personal Projects
 
-- **[Spatium](https://github.com/Alan-Fedrizzi/spatium)** - Recreation od a layout from Figma.
+- **[Spatium](https://github.com/Alan-Fedrizzi/spatium)** - Recreation of a layout from Figma.
 - **[Widgets](https://github.com/Alan-Fedrizzi/widgets)** - A compilation of Widgets for practice.
 
 ### Course Projects
