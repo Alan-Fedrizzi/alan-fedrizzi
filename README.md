@@ -54,6 +54,7 @@ A list of personal and course projects.
 
 - **[Spatium](https://github.com/Alan-Fedrizzi/spatium)** - Recreation of a layout from Figma.
 - **[Widgets](https://github.com/Alan-Fedrizzi/widgets)** - A compilation of Widgets for practice.
+- **[Medgrupo](https://prova-1-medgrupo.netlify.app/)** - Project developed for the **Medgrupo selection process**.
 
 ### Course Projects
 
