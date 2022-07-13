@@ -61,3 +61,7 @@ A list of personal and course projects.
 - **[Natours](https://github.com/Alan-Fedrizzi/natours)** - Project developed in the course **Advanced CSS and Sass** (Udemy).
 - **[Trillo](https://github.com/Alan-Fedrizzi/trillo)** - Project developed in the course **Advanced CSS and Sass** (Udemy).
 - **[Nexter](https://github.com/Alan-Fedrizzi/nexter)** - Project developed in the course **Advanced CSS and Sass** (Udemy).
+
+### Medgrupo Project
+
+- **[Medgrupo](https://prova-1-medgrupo.netlify.app/)** - Project developed for the **Medgrupo selection process**.
