@@ -2,7 +2,7 @@
 
 ### Criação de branch
 
-````bash
+```bash
 git checkout -b exercicio-1
 ```
 
@@ -10,7 +10,7 @@ git checkout -b exercicio-1
 
 ```bash
 git pull
-````
+```
 
 ### Trocar de branch
 
