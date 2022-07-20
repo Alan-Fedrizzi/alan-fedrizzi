@@ -2,6 +2,8 @@
 
 ## ctrl + sht + p
 
-Comandos do VSCode
-
 - Reload window (restarta a janela do VSCode)
+
+## ctrl + sht + n
+
+- Abre uma nova janlea do VSCode.
