@@ -69,3 +69,4 @@ A list of personal and course projects.
 - **[Trillo](https://github.com/Alan-Fedrizzi/trillo)** - Project developed in the course **Advanced CSS and Sass** (Udemy).
 - **[Nexter](https://github.com/Alan-Fedrizzi/nexter)** - Project developed in the course **Advanced CSS and Sass** (Udemy).
 - **[Guess My Number](https://github.com/Alan-Fedrizzi/guess-my-number)** - Project developed in the course **The Complete JavaScript Course 2022: From Zero to Expert** (Udemy).
+- **[Modal](https://github.com/Alan-Fedrizzi/modal)** - Project developed in the course **The Complete JavaScript Course 2022: From Zero to Expert** (Udemy).
