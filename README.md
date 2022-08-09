@@ -61,6 +61,7 @@ A list of personal and course projects.
   - **[Exercise 3](https://practice-medgrupo.netlify.app/exercicio-3/)**
   - **[Exercise 4](https://practice-medgrupo.netlify.app/exercicio-4/)**
   - **[Exercise 5](https://practice-medgrupo.netlify.app/exercicio-5/)**
+  - **[Exercise 6](https://practice-medgrupo.netlify.app/exercicio-6/)**
 
 ### Course Projects
 
@@ -70,3 +71,4 @@ A list of personal and course projects.
 - **[Nexter](https://github.com/Alan-Fedrizzi/nexter)** - Project developed in the course **Advanced CSS and Sass** (Udemy).
 - **[Guess My Number](https://github.com/Alan-Fedrizzi/guess-my-number)** - Project developed in the course **The Complete JavaScript Course 2022: From Zero to Expert** (Udemy).
 - **[Modal](https://github.com/Alan-Fedrizzi/modal)** - Project developed in the course **The Complete JavaScript Course 2022: From Zero to Expert** (Udemy).
+- **[Pig Game](https://github.com/Alan-Fedrizzi/pig-game)** - Project developed in the course **The Complete JavaScript Course 2022: From Zero to Expert** (Udemy).
