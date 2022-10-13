@@ -72,3 +72,4 @@ A list of personal and course projects.
 - **[Guess My Number](https://github.com/Alan-Fedrizzi/guess-my-number)** - Project developed in the course **The Complete JavaScript Course 2022: From Zero to Expert** (Udemy).
 - **[Modal](https://github.com/Alan-Fedrizzi/modal)** - Project developed in the course **The Complete JavaScript Course 2022: From Zero to Expert** (Udemy).
 - **[Pig Game](https://github.com/Alan-Fedrizzi/pig-game)** - Project developed in the course **The Complete JavaScript Course 2022: From Zero to Expert** (Udemy).
+- **[Bankist App](https://github.com/Alan-Fedrizzi/bankist-app)** - Project developed in the course **The Complete JavaScript Course 2022: From Zero to Expert** (Udemy).
