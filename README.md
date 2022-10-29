@@ -73,3 +73,4 @@ A list of personal and course projects.
 - **[Modal](https://github.com/Alan-Fedrizzi/modal)** - Project developed in the course **The Complete JavaScript Course 2022: From Zero to Expert** (Udemy).
 - **[Pig Game](https://github.com/Alan-Fedrizzi/pig-game)** - Project developed in the course **The Complete JavaScript Course 2022: From Zero to Expert** (Udemy).
 - **[Bankist App](https://github.com/Alan-Fedrizzi/bankist-app)** - Project developed in the course **The Complete JavaScript Course 2022: From Zero to Expert** (Udemy).
+- **[Bankist Site](https://github.com/Alan-Fedrizzi/bankist-site)** - Project developed in the course **The Complete JavaScript Course 2022: From Zero to Expert** (Udemy).
