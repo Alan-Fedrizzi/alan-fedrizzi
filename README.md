@@ -75,3 +75,4 @@ A list of personal and course projects.
 - **[Bankist App](https://github.com/Alan-Fedrizzi/bankist-app)** - Project developed in the course **The Complete JavaScript Course 2022: From Zero to Expert** (Udemy).
 - **[Bankist Site](https://github.com/Alan-Fedrizzi/bankist-site)** - Project developed in the course **The Complete JavaScript Course 2022: From Zero to Expert** (Udemy).
 - **[Where Am I](https://github.com/Alan-Fedrizzi/where-am-i)** - Project developed in the course **The Complete JavaScript Course 2022: From Zero to Expert** (Udemy).
+- **[Mapty](https://github.com/Alan-Fedrizzi/mapty)** - Project developed in the course **The Complete JavaScript Course 2022: From Zero to Expert** (Udemy).
