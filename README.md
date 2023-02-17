@@ -42,7 +42,7 @@
 
 Currently doing:
 
-- **[Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/)** by **[Jonas Schmedtmann](Maximilian Schwarzmüller)** on **[Udemy](https://www.udemy.com/)**.
+- **[Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/)** by **[Maximilian Schwarzmüller]** on **[Udemy](https://www.udemy.com/)**.
 
 A list of courses I took:
 
