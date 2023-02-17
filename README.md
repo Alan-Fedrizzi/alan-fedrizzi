@@ -25,6 +25,9 @@
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
     <img align="center" alt="JavaScript" height="50" width="50" src="./icons/javascript.svg">
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img align="center" alt="JavaScript" height="50" width="50" src="./icons/Typescript_logo_2020.svg">
+  </a>
 </div>
 
 ### Design Tools
@@ -39,12 +42,13 @@
 
 Currently doing:
 
-- **[The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)** by **[Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/)** on **[Udemy](https://www.udemy.com/)**.
+- **[Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/)** by **[Jonas Schmedtmann](Maximilian Schwarzmüller)** on **[Udemy](https://www.udemy.com/)**.
 
 A list of courses I took:
 
 - **[Advanced CSS and Sass](https://www.udemy.com/course/advanced-css-and-sass/)** by **[Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/)** on **[Udemy](https://www.udemy.com/)**.
 - **[Online Course Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)** by **[Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/)** on **[Udemy](https://www.udemy.com/)**.
+- **[The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)** by **[Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/)** on **[Udemy](https://www.udemy.com/)**.
 
 ## Projects
 
@@ -77,3 +81,4 @@ A list of personal and course projects.
 - **[Where Am I](https://github.com/Alan-Fedrizzi/where-am-i)** - Project developed in the course **The Complete JavaScript Course 2022: From Zero to Expert** (Udemy).
 - **[Mapty](https://github.com/Alan-Fedrizzi/mapty)** - Project developed in the course **The Complete JavaScript Course 2022: From Zero to Expert** (Udemy).
 - **[forkify](https://github.com/Alan-Fedrizzi/forkify)** - Project developed in the course **The Complete JavaScript Course 2022: From Zero to Expert** (Udemy).
+- **[drag-drop](https://github.com/Alan-Fedrizzi/drag-drop)** - Project developed in the course **Understanding TypeScript** (Udemy).
