@@ -82,3 +82,4 @@ A list of personal and course projects.
 - **[Mapty](https://github.com/Alan-Fedrizzi/mapty)** - Project developed in the course **The Complete JavaScript Course 2022: From Zero to Expert** (Udemy).
 - **[forkify](https://github.com/Alan-Fedrizzi/forkify)** - Project developed in the course **The Complete JavaScript Course 2022: From Zero to Expert** (Udemy).
 - **[drag-drop](https://github.com/Alan-Fedrizzi/drag-drop)** - Project developed in the course **Understanding TypeScript** (Udemy).
+- **[node-express](https://github.com/Alan-Fedrizzi/node-express)** - Project developed in the course **Understanding TypeScript** (Udemy).
