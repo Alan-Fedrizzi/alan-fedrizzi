@@ -42,13 +42,14 @@
 
 Currently doing:
 
-- **[Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/)** by **[Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/)** on **[Udemy](https://www.udemy.com/)**.
+- **[Web Components & Stencil.js - Build Custom HTML Elements](https://www.udemy.com/course/web-components-stenciljs-build-custom-html-elements/)** by **[Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/)** on **[Udemy](https://www.udemy.com/)**.
 
 A list of courses I took:
 
 - **[Advanced CSS and Sass](https://www.udemy.com/course/advanced-css-and-sass/)** by **[Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/)** on **[Udemy](https://www.udemy.com/)**.
 - **[Online Course Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)** by **[Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/)** on **[Udemy](https://www.udemy.com/)**.
 - **[The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)** by **[Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/)** on **[Udemy](https://www.udemy.com/)**.
+- **[Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/)** by **[Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/)** on **[Udemy](https://www.udemy.com/)**.
 
 ## Projects
 
