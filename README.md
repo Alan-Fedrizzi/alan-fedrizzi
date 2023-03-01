@@ -26,7 +26,13 @@
     <img align="center" alt="JavaScript" height="50" width="50" src="./icons/javascript.svg">
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
-    <img align="center" alt="JavaScript" height="50" width="50" src="./icons/Typescript_logo_2020.svg">
+    <img align="center" alt="TypeScript" height="50" width="50" src="./icons/Typescript_logo_2020.svg">
+  </a>
+  <a href="https://stenciljs.com/" target="_blank">
+    <img align="center" alt="Stencil" height="50" width="50" src="./icons/logo-stencil.svg">
+  </a>
+  <a href="https://storybook.js.org/" target="_blank">
+    <img align="center" alt="Storybook" height="50" width="50" src="./icons/storybook-icon.svg">
   </a>
 </div>
 
@@ -42,14 +48,13 @@
 
 Currently doing:
 
-- **[Web Components & Stencil.js - Build Custom HTML Elements](https://www.udemy.com/course/web-components-stenciljs-build-custom-html-elements/)** by **[Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/)** on **[Udemy](https://www.udemy.com/)**.
-
 A list of courses I took:
 
 - **[Advanced CSS and Sass](https://www.udemy.com/course/advanced-css-and-sass/)** by **[Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/)** on **[Udemy](https://www.udemy.com/)**.
 - **[Online Course Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)** by **[Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/)** on **[Udemy](https://www.udemy.com/)**.
 - **[The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)** by **[Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/)** on **[Udemy](https://www.udemy.com/)**.
 - **[Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/)** by **[Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/)** on **[Udemy](https://www.udemy.com/)**.
+- **[Web Components & Stencil.js - Build Custom HTML Elements](https://www.udemy.com/course/web-components-stenciljs-build-custom-html-elements/)** by **[Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/)** on **[Udemy](https://www.udemy.com/)**.
 
 ## Projects
 
@@ -62,11 +67,12 @@ A list of personal and course projects.
 - **[Medgrupo](https://prova-1-medgrupo.netlify.app/)** - Project developed for the **Medgrupo selection process**.
 - Practice - Project built as an exercise during the selection process at Medgrupo:
   - **[Exercise 1](https://practice-medgrupo.netlify.app/exercicio-1/)**
-  - Exercise 2 - on going.
+  - **[Exercise 2](https://exercise-storybook.netlify.app/?path=/story/components-badge--default)**
   - **[Exercise 3](https://practice-medgrupo.netlify.app/exercicio-3/)**
   - **[Exercise 4](https://practice-medgrupo.netlify.app/exercicio-4/)**
   - **[Exercise 5](https://practice-medgrupo.netlify.app/exercicio-5/)**
   - **[Exercise 6](https://practice-medgrupo.netlify.app/exercicio-6/)**
+- **[tic-tac-toe](https://github.com/Alan-Fedrizzi/tic-tac-toe)**.
 
 ### Course Projects
 
@@ -84,3 +90,5 @@ A list of personal and course projects.
 - **[forkify](https://github.com/Alan-Fedrizzi/forkify)** - Project developed in the course **The Complete JavaScript Course 2022: From Zero to Expert** (Udemy).
 - **[drag-drop](https://github.com/Alan-Fedrizzi/drag-drop)** - Project developed in the course **Understanding TypeScript** (Udemy).
 - **[node-express](https://github.com/Alan-Fedrizzi/node-express)** - Project developed in the course **Understanding TypeScript** (Udemy).
+- **[modal-component](https://github.com/Alan-Fedrizzi/modal-component)** - Project developed in the course **Web Components & Stencil.js - Build Custom HTML Elements** (Udemy).
+- **[web-components-stencil](https://github.com/Alan-Fedrizzi/web-components-stencil)** - Project developed in the course **Web Components & Stencil.js - Build Custom HTML Elements** (Udemy).
