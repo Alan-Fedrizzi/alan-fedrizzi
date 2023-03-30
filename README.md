@@ -34,6 +34,12 @@
   <a href="https://storybook.js.org/" target="_blank">
     <img align="center" alt="Storybook" height="50" width="50" src="./icons/storybook-icon.svg">
   </a>
+  <a href="https://ionicframework.com/" target="_blank">
+    <img align="center" alt="Storybook" height="50" width="50" src="./icons/ionicframework-icon.svg">
+  </a>
+  <a href="https://angular.io/" target="_blank">
+    <img align="center" alt="Storybook" height="50" width="50" src="./icons/angular-icon.svg">
+  </a>
 </div>
 
 ### Design Tools
@@ -94,4 +100,4 @@ A list of personal and course projects.
 - **[node-express](https://github.com/Alan-Fedrizzi/node-express)** - Project developed in the course **Understanding TypeScript** (Udemy).
 - **[modal-component](https://github.com/Alan-Fedrizzi/modal-component)** - Project developed in the course **Web Components & Stencil.js - Build Custom HTML Elements** (Udemy).
 - **[web-components-stencil](https://github.com/Alan-Fedrizzi/web-components-stencil)** - Project developed in the course **Web Components & Stencil.js - Build Custom HTML Elements** (Udemy).
-- **[three-simple-apps](https://github.com/Alan-Fedrizzi/ng-refresher-ionic)** - Project developed in the course **Ionic - Build iOS, Android & Web Apps with Ionic & Angular** (Udemy).
+- **[ng-refresher-ionic](https://github.com/Alan-Fedrizzi/ng-refresher-ionic)** - Project developed in the course **Ionic - Build iOS, Android & Web Apps with Ionic & Angular** (Udemy).
