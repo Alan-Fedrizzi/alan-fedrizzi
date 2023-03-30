@@ -48,6 +48,8 @@
 
 Currently doing:
 
+- **[Ionic - Build iOS, Android & Web Apps with Ionic & Angular](https://www.udemy.com/course/ionic-2-the-practical-guide-to-building-ios-android-apps/)** by **[Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/)** on **[Udemy](https://www.udemy.com/)**.
+
 A list of courses I took:
 
 - **[Advanced CSS and Sass](https://www.udemy.com/course/advanced-css-and-sass/)** by **[Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/)** on **[Udemy](https://www.udemy.com/)**.
@@ -92,3 +94,4 @@ A list of personal and course projects.
 - **[node-express](https://github.com/Alan-Fedrizzi/node-express)** - Project developed in the course **Understanding TypeScript** (Udemy).
 - **[modal-component](https://github.com/Alan-Fedrizzi/modal-component)** - Project developed in the course **Web Components & Stencil.js - Build Custom HTML Elements** (Udemy).
 - **[web-components-stencil](https://github.com/Alan-Fedrizzi/web-components-stencil)** - Project developed in the course **Web Components & Stencil.js - Build Custom HTML Elements** (Udemy).
+- **[three-simple-apps](https://github.com/Alan-Fedrizzi/ng-refresher-ionic)** - Project developed in the course **Ionic - Build iOS, Android & Web Apps with Ionic & Angular** (Udemy).
