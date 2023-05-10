@@ -80,7 +80,8 @@ A list of personal and course projects.
   - **[Exercise 4](https://practice-medgrupo.netlify.app/exercicio-4/)**
   - **[Exercise 5](https://practice-medgrupo.netlify.app/exercicio-5/)**
   - **[Exercise 6](https://practice-medgrupo.netlify.app/exercicio-6/)**
-- **[tic-tac-toe](https://github.com/Alan-Fedrizzi/tic-tac-toe)**.
+- **[tic-tac-toe](https://github.com/Alan-Fedrizzi/tic-tac-toe)**
+- **[A simple calculator](https://github.com/Alan-Fedrizzi/aff-calc)**
 
 ### Course Projects
 
