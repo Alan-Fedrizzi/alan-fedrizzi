@@ -54,8 +54,6 @@
 
 Currently doing:
 
-- **[Ionic - Build iOS, Android & Web Apps with Ionic & Angular](https://www.udemy.com/course/ionic-2-the-practical-guide-to-building-ios-android-apps/)** by **[Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/)** on **[Udemy](https://www.udemy.com/)**.
-
 A list of courses I took:
 
 - **[Advanced CSS and Sass](https://www.udemy.com/course/advanced-css-and-sass/)** by **[Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/)** on **[Udemy](https://www.udemy.com/)**.
@@ -63,6 +61,8 @@ A list of courses I took:
 - **[The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)** by **[Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/)** on **[Udemy](https://www.udemy.com/)**.
 - **[Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/)** by **[Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/)** on **[Udemy](https://www.udemy.com/)**.
 - **[Web Components & Stencil.js - Build Custom HTML Elements](https://www.udemy.com/course/web-components-stenciljs-build-custom-html-elements/)** by **[Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/)** on **[Udemy](https://www.udemy.com/)**.
+- **[Ionic - Build iOS, Android & Web Apps with Ionic & Angular](https://www.udemy.com/course/ionic-2-the-practical-guide-to-building-ios-android-apps/)** by **[Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/)** on **[Udemy](https://www.udemy.com/)**.
+- **[Master JavaScript Animations with Greensock](https://www.udemy.com/course/master-javascript-animations-with-greensock/)** by **[Enzo Ustariz](https://www.udemy.com/user/ustariz-enzo/)** on **[Udemy](https://www.udemy.com/)**.
 
 ## Projects
 
@@ -102,3 +102,4 @@ A list of personal and course projects.
 - **[modal-component](https://github.com/Alan-Fedrizzi/modal-component)** - Project developed in the course **Web Components & Stencil.js - Build Custom HTML Elements** (Udemy).
 - **[web-components-stencil](https://github.com/Alan-Fedrizzi/web-components-stencil)** - Project developed in the course **Web Components & Stencil.js - Build Custom HTML Elements** (Udemy).
 - **[ng-refresher-ionic](https://github.com/Alan-Fedrizzi/ng-refresher-ionic)** - Project developed in the course **Ionic - Build iOS, Android & Web Apps with Ionic & Angular** (Udemy).
+- **[gsap-animations](https://github.com/Alan-Fedrizzi/gsap-animations)** - Project developed in the course **Master JavaScript Animations with Greensock** (Udemy).
