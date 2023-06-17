@@ -40,6 +40,9 @@
   <a href="https://angular.io/" target="_blank">
     <img align="center" alt="Storybook" height="50" width="50" src="./icons/angular-icon.svg">
   </a>
+  <a href="https://greensock.com/gsap/" target="_blank">
+    <img align="center" alt="gsap" height="50" width="50" src="./icons/gsap-greensock.svg">
+  </a>
 </div>
 
 ### Design Tools
