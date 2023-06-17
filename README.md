@@ -105,5 +105,5 @@ A list of personal and course projects.
 - **[modal-component](https://github.com/Alan-Fedrizzi/modal-component)** - Project developed in the course **Web Components & Stencil.js - Build Custom HTML Elements** (Udemy).
 - **[web-components-stencil](https://github.com/Alan-Fedrizzi/web-components-stencil)** - Project developed in the course **Web Components & Stencil.js - Build Custom HTML Elements** (Udemy).
 - **[ng-refresher-ionic](https://github.com/Alan-Fedrizzi/ng-refresher-ionic)** - Project developed in the course **Ionic - Build iOS, Android & Web Apps with Ionic & Angular** (Udemy).
-- **[ionic-angular-course](https://github.com/Alan-Fedrizzi/ionic-angular-course)** - Project developed in the course **Ionic - Build iOS, Android & Web Apps with Ionic & Angular** (Udemy).
+- **[ionic-angular-course]()** - Project developed in the course **Ionic - Build iOS, Android & Web Apps with Ionic & Angular** (Udemy).
 - **[gsap-animations](https://github.com/Alan-Fedrizzi/gsap-animations)** - Project developed in the course **Master JavaScript Animations with Greensock** (Udemy).
