@@ -109,3 +109,5 @@ A list of personal and course projects.
 - **[ng-refresher-ionic](https://github.com/Alan-Fedrizzi/ng-refresher-ionic)** - Project developed in the course **Ionic - Build iOS, Android & Web Apps with Ionic & Angular** (Udemy).
 - **ionic-angular-course** - Project developed in the course **Ionic - Build iOS, Android & Web Apps with Ionic & Angular** (Udemy).
 - **[gsap-animations](https://github.com/Alan-Fedrizzi/gsap-animations)** - Project developed in the course **Master JavaScript Animations with Greensock** (Udemy).
+- **[GreenSock 101](https://github.com/Alan-Fedrizzi/greensock-101)** - Project developed in the course **GreenSock 101** (I Hate Tomatoes).
+- **[Barba.js 101](https://github.com/Alan-Fedrizzi/barbajs-101)** - Project developed in the course **Barba.js 101** (I Hate Tomatoes).
