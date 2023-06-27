@@ -57,8 +57,6 @@
 
 Currently doing:
 
-- **[Barba.js 101](https://ihatetomatoes.net/get-barba-101/)** by **Petr Tichy** on **[I Hate Tomatoes](https://ihatetomatoes.net/)**.
-
 A list of courses I took:
 
 - **[Advanced CSS and Sass](https://www.udemy.com/course/advanced-css-and-sass/)** by **[Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/)** on **[Udemy](https://www.udemy.com/)**.
@@ -69,6 +67,7 @@ A list of courses I took:
 - **[Ionic - Build iOS, Android & Web Apps with Ionic & Angular](https://www.udemy.com/course/ionic-2-the-practical-guide-to-building-ios-android-apps/)** by **[Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/)** on **[Udemy](https://www.udemy.com/)**.
 - **[Master JavaScript Animations with Greensock](https://www.udemy.com/course/master-javascript-animations-with-greensock/)** by **[Enzo Ustariz](https://www.udemy.com/user/ustariz-enzo/)** on **[Udemy](https://www.udemy.com/)**.
 - **[GreenSock 101](https://ihatetomatoes.net/get-greensock-101/)** by **Petr Tichy** on **[I Hate Tomatoes](https://ihatetomatoes.net/)**.
+- **[Barba.js 101](https://ihatetomatoes.net/get-barba-101/)** by **Petr Tichy** on **[I Hate Tomatoes](https://ihatetomatoes.net/)**.
 
 ## Projects
 
