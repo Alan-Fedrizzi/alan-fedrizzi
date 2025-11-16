@@ -43,6 +43,18 @@
   <a href="https://greensock.com/gsap/" target="_blank">
     <img align="center" alt="gsap" height="50" width="50" src="./icons/gsap-greensock.svg">
   </a>
+  <a href="https://reactnative.dev/" target="_blank">
+    <img align="center" alt="gsap" height="50" width="50" src="./icons/react-native.svg">
+  </a>
+  <a href="https://www.php.net/" target="_blank">
+    <img align="center" alt="gsap" height="50" width="50" src="./icons/php.svg">
+  </a>
+  <a href="https://wordpress.com/" target="_blank">
+    <img align="center" alt="gsap" height="50" width="50" src="./icons/wordpress.svg">
+  </a>
+  <a href="https://elementor.com/" target="_blank">
+    <img align="center" alt="gsap" height="50" width="50" src="./icons/elementor.svg">
+  </a>
 </div>
 
 ### Design Tools
