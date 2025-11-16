@@ -68,6 +68,7 @@ A list of courses I took:
 - **[Master JavaScript Animations with Greensock](https://www.udemy.com/course/master-javascript-animations-with-greensock/)** by **[Enzo Ustariz](https://www.udemy.com/user/ustariz-enzo/)** on **[Udemy](https://www.udemy.com/)**.
 - **[GreenSock 101](https://ihatetomatoes.net/get-greensock-101/)** by **Petr Tichy** on **[I Hate Tomatoes](https://ihatetomatoes.net/)**.
 - **[Barba.js 101](https://ihatetomatoes.net/get-barba-101/)** by **Petr Tichy** on **[I Hate Tomatoes](https://ihatetomatoes.net/)**.
+- **[NLW 15 Unite React-Native](https://app.rocketseat.com.br/classroom/nlw-15-unite-react-native)** by **[RocketSeat](https://www.rocketseat.com.br/)**.
 
 ## Projects
 
@@ -111,3 +112,4 @@ A list of personal and course projects.
 - **[gsap-animations](https://github.com/Alan-Fedrizzi/gsap-animations)** - Project developed in the course **Master JavaScript Animations with Greensock** (Udemy).
 - **[GreenSock 101](https://github.com/Alan-Fedrizzi/greensock-101)** - Project developed in the course **GreenSock 101** (I Hate Tomatoes).
 - **[Barba.js 101](https://github.com/Alan-Fedrizzi/barbajs-101)** - Project developed in the course **Barba.js 101** (I Hate Tomatoes).
+- **[NLW 15 Unite React-Native](https://github.com/Alan-Fedrizzi/unite)** - Project developed in the course **NLW 15 Unite React-Native** (RocketSeat).
