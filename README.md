@@ -82,6 +82,7 @@ A list of courses I took:
 - **[Barba.js 101](https://ihatetomatoes.net/get-barba-101/)** by **Petr Tichy** on **[I Hate Tomatoes](https://ihatetomatoes.net/)**.
 - **[React Native](https://www.rocketseat.com.br/formacao/react-native)** (ongoing) by **[RocketSeat](https://www.rocketseat.com.br/)**.
 - **[NLW 15 Unite React-Native](https://app.rocketseat.com.br/classroom/nlw-15-unite-react-native)** by **[RocketSeat](https://www.rocketseat.com.br/)**.
+- **[NLW 16 Journey React-Native](https://app.rocketseat.com.br/classroom/nlw-16-journey-react-native)** by **[RocketSeat](https://www.rocketseat.com.br/)**.
 
 ## Projects
 
