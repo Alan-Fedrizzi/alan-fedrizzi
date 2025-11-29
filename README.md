@@ -127,3 +127,4 @@ A list of personal and course projects.
 - **[Barba.js 101](https://github.com/Alan-Fedrizzi/barbajs-101)** - Project developed in the course **Barba.js 101** (I Hate Tomatoes).
 - **[Comprar](https://github.com/Alan-Fedrizzi/comprar)** - Project developed in the course **React-Native** (RocketSeat).
 - **[NLW 15 Unite React-Native](https://github.com/Alan-Fedrizzi/unite)** - Project developed in the course **NLW 15 Unite React-Native** (RocketSeat).
+- **[NLW 16 Journey React-Native](https://github.com/Alan-Fedrizzi/planner)** - Project developed in the course **NLW 16 Journey React-Native** (RocketSeat).
